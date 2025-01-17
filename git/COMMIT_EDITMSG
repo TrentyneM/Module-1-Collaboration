@@ -1,0 +1,16 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   hello_world_test.py
+
+Commited new hello_world_test.py file, this is the first
+and only file in this commit and when this file is run; will
+print the message "Hello World" before exiting
+
+
